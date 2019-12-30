@@ -1,3 +1,3 @@
 # go-knowledges
 
-- [go build -ldflags](ldflags/README.md)
+- [go build -ldflags](ldflags/)
